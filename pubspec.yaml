@@ -52,6 +52,10 @@ flutter:
       fonts:
         - asset: fonts/RockSalt-Regular.ttf
 
+    - family: Caveat
+      fonts:
+        - asset: fonts/Caveat-Regular.ttf
+
   #   - family: Trajan Pro
   #     fonts:
   #       - asset: fonts/TrajanPro.ttf
